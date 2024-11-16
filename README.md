@@ -7,3 +7,8 @@
   <img src="https://shields.microej.com/badge/Drone-COEX%20Clover%20v4-green" alt="Copter">
   <img src="https://shields.microej.com/badge/OpenCV%20Version-4.10.0.84-orange" alt="OpenCV version">
 </p>
+
+Информация:
+-
+Главное изображение - прямая ссылка из imgbb.com
+Маленькие "Шилдики" - shields.io

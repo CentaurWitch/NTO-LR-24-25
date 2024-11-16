@@ -1,3 +1,7 @@
+#Conversion of the BGR band to the HSV band
+#Created by 16.11.24
+#Позволяет найти минимальные и максимальные значения HSV на изображении
+
 import cv2
 import numpy as np
 
@@ -17,7 +21,7 @@ cv2.createTrackbar('v2', 'settings', 255, 255, nothing)
 crange = [0,0,0, 0,0,0]
 
 while True:
-    img = cv2.imread("blue_img.png")
+    img = cv2.imread('name')
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
  
     # считываем значения бегунков
